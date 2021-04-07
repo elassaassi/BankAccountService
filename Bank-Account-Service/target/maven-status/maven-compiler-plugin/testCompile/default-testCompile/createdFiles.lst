@@ -1,0 +1,6 @@
+com/bankaccount/services/TransactionTest.class
+com/bankaccount/services/TransactionServiceTest.class
+com/bankaccount/services/AccountTestAcceptance.class
+com/bankaccount/services/AccountOperationTest.class
+com/bankaccount/services/WalletTest.class
+com/bankaccount/services/OperationTypeTest.class

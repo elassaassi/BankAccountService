@@ -1,0 +1,7 @@
+com/bankaccount/utils/OperationType.class
+com/bankaccount/domain/Transaction.class
+com/bankaccount/services/TransactionService.class
+com/bankaccount/services/AccountService.class
+com/bankaccount/services/OperationService.class
+com/bankaccount/domain/Wallet.class
+com/bankaccount/domain/Account.class
